@@ -49,7 +49,7 @@ Hello! my name *{}*.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-START_IMG = "https://telegra.ph/file/950e2c28960bfc78386fc.jpg"
+START_IMG = "https://telegra.ph/file/79e6328aa21d374c25cf2.jpg"
 
 IMPORTED = {}
 MIGRATEABLE = []
