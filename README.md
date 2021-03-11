@@ -11,7 +11,7 @@ The Support group can be reached out to at [Sethx Support](https://t.me/sethx_su
 
 News channel as at [Sethx Updates](https://t.me/sethx_support) 
 # DEPLOY ON HEROKU 
-<a href="https://heroku.com/deploy?template=https://github.com/nub-sir/sethx-bot/blob/master"> <img src="https://www2.assets.heroku.com/assets/elements/elements-buttons-2-4867044559069b937ba0fd078f5604f310a49928bd1b59fb3d2f0ff96e0d97c8.svg" alt="Deploy to Heroku" /></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nub-sir/sethx-bot.git)
 # WORK IN PROGRESS 
 <a href="https://telegra.ph/file/79e6328aa21d374c25cf2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="200" data-original-width="200" height="" src="https://telegra.ph/file/79e6328aa21d374c25cf2.jpg" width="500" /></a></div>
 
