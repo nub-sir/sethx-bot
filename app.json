@@ -33,20 +33,20 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1272114456"
+         "value": "1323295012"
       },
       "OWNER_NAME": {
          "description": "Your username",
-         "value": "dc_sir"
+         "value": "jacky_xd"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "1272114456"
+         "value": "1323295012 1272114456"
       },
 "START_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/950e2c28960bfc78386fc.jpg"    
+         "value": "https://telegra.ph/file/79e6328aa21d374c25cf2.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -80,12 +80,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1272114456"
+         "value": "1323295012 1272114456 1218475925"
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "1272114456"
+         "value": "1323295012 1272114456"
       },
       "TOKEN": {
          "description": "Your bot token.",
@@ -105,7 +105,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1272114456"
+         "value": "1323295012 1272114456 1218475925"
       }
    },
    "keywords": [
