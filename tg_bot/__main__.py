@@ -147,7 +147,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                                    [InlineKeyboardButton(text="ADD ME TO YOUR GROUP",
                                                                        url="t.me/{}?startgroup=true".format(bot.username)),
                                                                                    InlineKeyboardButton(text="Source Code",
-                                                                       url="https://github.com/nub-sir/MrBunny-robot")
+                                                                       url="https://github.com/nub-sir/Sethx_bot")
                                                                                  ]]))
 
     else:
